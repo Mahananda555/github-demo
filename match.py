@@ -5,7 +5,8 @@ def add(x,y):
 # sub implementation
 def subtract(x,y):
     pass
-	return x-y   
+	return x-y 
+return sub	
 # mul implementation
 def multiply(x,y):
  pass
